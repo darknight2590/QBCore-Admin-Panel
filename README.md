@@ -7,7 +7,7 @@ This is a FREE work in progress admin panel which I started working on the 16th 
 - Admins will login using Discord (Will be checked via a discord role in a guild specified in the config file)
 - The panel will sync with the QBCore database and will have new tables to store information for the panel (Such as notes)
 <br>
-<br>
+
 **To Do List**
 - Show all players table
 - Able to view everything about a player and manage their accounts
