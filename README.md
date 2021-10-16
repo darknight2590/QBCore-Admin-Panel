@@ -2,7 +2,7 @@
 [PUBLIC] An advanced admin panel using PHP for you to manage your QBCore server!
 
 <br>
-**LIVE PREVIEW (Current progress): https://panel.aidanoh.art/
+LIVE PREVIEW (Current progress): https://panel.aidanoh.art/
 <br>
 
 This is a FREE work in progress admin panel which I started working on the 16th October 2021 and constantly updating it's repository. The repository is going to be constantly updated and will be released on the FiveM forum when in a stable condition. 
