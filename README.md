@@ -18,6 +18,7 @@ This is a FREE work in progress admin panel which I started working on the 16th 
 - Manage everything about someone's characters 
 - Kick players on the server from the admin panel
 - Manage all police departments/gangs on the panel
+- A Leaderboards where you can view who has most bank/cash etc etc
 - Manage all vehicles on the server
 - Can edit license plates on vehicles
 - Able to manage the "permissions" table. Giving people permissions in game from the panel
