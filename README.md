@@ -4,6 +4,7 @@
 This is a FREE work in progress admin panel which I started working on the 16th October 2021 and constantly updating it's repository. The repository is going to be constantly updated and will be released on the FiveM forum when in a stable condition. 
 
 <br>
+
 **Main Functionality:**
 - Admins will login using Discord (Will be checked via a discord role in a guild specified in the config file)
 - The panel will sync with the QBCore database and will have new tables to store information for the panel (Such as notes)
